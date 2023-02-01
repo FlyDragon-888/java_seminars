@@ -22,4 +22,5 @@ public class Task1 {
         System.out.println("Список без чётных чисел:");
         System.out.println(listNum);
     }
+    
 }
